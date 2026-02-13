@@ -14,7 +14,7 @@ from base learners and training a meta-model on top.
 
 ---
 
-## 🚀 Output Example
+##  Output Example
 
 Decision boundaries produced by each ensemble method:
 
@@ -22,9 +22,10 @@ Decision boundaries produced by each ensemble method:
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Clone the repository and install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
