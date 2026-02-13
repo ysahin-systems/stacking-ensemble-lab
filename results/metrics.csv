@@ -1,0 +1,6 @@
+model,test_accuracy
+stacking_oof,0.906
+bagging,0.9
+random_forest,0.904
+adaboost,0.892
+gbdt,0.898

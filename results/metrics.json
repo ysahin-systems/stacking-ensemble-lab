@@ -1,0 +1,10 @@
+{
+  "stacking_oof_accuracy": 0.906,
+  "baseline_test_scores": {
+    "bagging": 0.9,
+    "random_forest": 0.904,
+    "adaboost": 0.892,
+    "gbdt": 0.898
+  },
+  "random_forest_oob_score": 0.9093333333333333
+}
